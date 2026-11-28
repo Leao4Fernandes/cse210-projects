@@ -1,3 +1,4 @@
+namespace Mindfulness;
 public class Activity
 {
     private string _name;
